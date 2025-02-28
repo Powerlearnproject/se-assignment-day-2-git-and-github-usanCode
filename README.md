@@ -79,4 +79,8 @@ The difference between forking and cloning:
 
 ## Examine the importance of issues and project boards on GitHub. How can they be used to track bugs, manage tasks, and improve project organization? Provide examples of how these tools can enhance collaborative efforts.
 
+Answer:
+
+A GitHub project board: a tool that helps organize and prioritize work on a project using the Scrum framework for project management. It helps to enhance transparency, accountability and the overall of your projects
+
 ## Reflect on common challenges and best practices associated with using GitHub for version control. What are some common pitfalls new users might encounter, and what strategies can be employed to overcome them and ensure smooth collaboration?

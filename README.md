@@ -66,7 +66,7 @@ Steps to follow:
 - create a branch ->changes ->push
 - on GitHub -> create a pull request -> merge
 -locally on Git, run git pull -a on the main branch
--the nee commit appears
+-the new commit appears
 -now you must run git push
 
 ## Discuss the concept of "forking" a repository on GitHub. How does forking differ from cloning, and what are some scenarios where forking would be particularly useful?

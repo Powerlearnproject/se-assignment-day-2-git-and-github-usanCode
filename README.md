@@ -84,3 +84,14 @@ Answer:
 A GitHub project board: a tool that helps organize and prioritize work on a project using the Scrum framework for project management. It helps to enhance transparency, accountability and the overall of your projects
 
 ## Reflect on common challenges and best practices associated with using GitHub for version control. What are some common pitfalls new users might encounter, and what strategies can be employed to overcome them and ensure smooth collaboration?
+
+Answer:
+
+Github is great for:
+
+-collaboration between developers
+-I find great the way to work on, manage, organize the repository.
+
+Drawbacks:
+
+I find it a bit risky because public repositories can be accessed from anywhere in the world therefore opened to evildoers

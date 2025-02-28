@@ -5,7 +5,11 @@
 
 Answer:
 
-.- Git is a version control system that helps track changes made within a program over time. In case we find errors, we can fix them. Git runs locally
+.- Git is a version control system that helps track changes made within a program over time. In case we find errors, we can fix them. Git runs locally.
+
+-Github : is a cloud-based space where we can create, store manage git repositories. We can invite collaborators to work together and share. These repositories are stored online that is why it is called a cloud-based platform. GitHub is popular, it facilitates collaboration among developers.
+
+Version control helps maintain project integrity because every change made is recorded so it is easy to detect any action made previously thus finding errors quickly and correct them.
 
 ## Describe the process of setting up a new repository on GitHub. What are the key steps involved, and what are some of the important decisions you need to make during this process?
 

@@ -53,7 +53,7 @@ These changes have to be committed also remotely.
 
 Answer: 
 .
-Branching is good because it avoid to meets up the good work done previously. It's like when writing an essay on the paper you're supposed to submit, new ideas are developed first on an another paper. When it's finished those suggested ideas are added on the essay
+Branching is good because it avoid to mess up the good work done previously. It's like when writing an essay on the paper you're supposed to submit, new ideas are developed first on an another paper. When it's finished those suggested ideas are added on the essay
 
 
 ## Explore the role of pull requests in the GitHub workflow. How do they facilitate code review and collaboration, and what are the typical steps involved in creating and merging a pull request?
